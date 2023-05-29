@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/ui/src/components/LinkModal/LinkModal.scss?a9ae"],"names":["module","exports"],"mappings":"8EACAA,EAAOC,QAAU,CAAC,kBAAoB,OAAO,mBAAqB","file":"chunks/2.chunk.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"LEFT_HEADER_WIDTH\":\"41px\",\"RIGHT_HEADER_WIDTH\":\"41px\"};"],"sourceRoot":""}
